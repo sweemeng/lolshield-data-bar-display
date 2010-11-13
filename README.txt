@@ -7,3 +7,6 @@ To use it
 - see the lolshield lights up!!!!
 
 The reason you need to add a S, because arduino detect S to reset the number receive. 
+
+TODO
+- Fix the issue where once serial connection close, all the display led is off
